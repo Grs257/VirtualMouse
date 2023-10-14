@@ -49,17 +49,7 @@ pip install virtual-mouse
 
 ## 3. Usage
 
-The Virtual Mouse is easy to use. You can control the mouse pointer by importing the `virtual_mouse` module and creating a `Mouse` object. Here is a simple example:
-
-```python
-from virtual_mouse import Mouse
-
-mouse = Mouse()
-mouse.move(500, 500)  # Move the mouse to coordinates (500, 500)
-mouse.click()        # Perform a left-click
-```
-
-For more detailed usage instructions, please refer to the [documentation](https://virtual-mouse-docs.example.com).
+The Virtual Mouse is easy to use. You can control the mouse pointer by importing the `virtual_mouse` module and creating a `Mouse` object. 
 
 ## 4. Features
 
@@ -91,18 +81,7 @@ The Virtual Mouse provides options for configuration. You can customize various 
 
 If you encounter any issues while using the Virtual Mouse, you can refer to the [troubleshooting guide](https://virtual-mouse-docs.example.com/troubleshooting) for common problems and solutions. If you need further assistance, you can also contact our support team.
 
-## 8. Contributing
+ 
+ 
 
-We welcome contributions from the open-source community. If you would like to contribute to the development of the Virtual Mouse utility, please refer to our [contribution guidelines](https://virtual-mouse-docs.example.com/contributing) and join our community on GitHub.
-
-## 9. License
-
-The Virtual Mouse is open-source software released under the [MIT License](https://virtual-mouse-docs.example.com/license). You are free to use, modify, and distribute this software in accordance with the terms of the license.
-
----
-
-Thank you for using the Virtual Mouse utility. We hope it simplifies your mouse control needs and enhances your automation projects. If you have any questions, feedback, or suggestions, please don't hesitate to reach out to us at support@virtual-mouse.example.com.
-
-For the latest updates and news, visit our website at [https://virtual-mouse.example.com](https://virtual-mouse.example.com).
-
-**Happy clicking!**
+ 
