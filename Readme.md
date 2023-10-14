@@ -28,24 +28,9 @@ The Virtual Mouse is a Python-based utility that allows users to simulate mouse 
 
 ## 2. Installation
 
-To install the Virtual Mouse utility, follow these steps:
-
 ### Prerequisites
-
 - Python 3.6 or higher
 - Pip (Python package manager)
-
-### Installation Steps
-
-1. Open a terminal or command prompt.
-
-2. Install the Virtual Mouse package using pip:
-
-```shell
-pip install virtual-mouse
-```
-
-3. Once the installation is complete, you can start using the Virtual Mouse utility.
 
 ## 3. Usage
 
